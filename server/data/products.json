@@ -1,0 +1,48 @@
+[
+    {
+        "name":"OnePlus Nord",
+        "price":"29999",
+        "description":"One Plus designed a most secured and excellent device the mankind has even witness",
+        "ratings":5,
+        "images":[
+            {
+            "public_id":"onePLUS_1_NORD_CHINA_MANUFACTURED",
+            "url":"WAIT_FOR_CLOUDINARY"
+            }
+        ],
+        "category":"Mobiles",
+        "seller":"Vaishnav Dealers And Suppliers",
+        "stock":10,
+        "numOfReviews":2,
+        "reviews":[
+            {
+                "name":"Kulbhushand Kalbanda",
+                "rating":4.5,
+                "comment":"Best Device i have ever used"
+            }
+        ]
+    },
+    {
+        "name":"Dell Inspiron",
+        "price":"49999",
+        "description":"Dell designed a most secured and excellent device the mankind has even witness",
+        "ratings":5,
+        "images":[
+            {
+            "public_id":"DELL_INSPIRON_1_CHINA_MANUFACTURED",
+            "url":"WAIT_FOR_CLOUDINARY"
+            }
+        ],
+        "category":"Laptops",
+        "seller":"Vaishnav Dealers And Suppliers",
+        "stock":10,
+        "numOfReviews":2,
+        "reviews":[
+            {
+                "name":"Kartik Malya",
+                "rating":3.5,
+                "comment":"Somewhat cool"
+            }
+        ]
+    }
+]
